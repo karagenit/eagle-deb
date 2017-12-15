@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Autodesk EAGLE
+Comment=PCB Design Software
+Exec=/usr/local/bin/eagle
+Terminal=false
+Categories=CAD;PCB
