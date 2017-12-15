@@ -14,4 +14,4 @@ mv "$files" "/usr/local/lib/"
 ln -s "/usr/local/lib/$files" "/usr/local/bin/eagle"
 
 # Allows Window Managers like GNOME to find Eagle
-mv "./eagle.desktop" "/usr/share/applications/"
+cp "./eagle.desktop" "/usr/share/applications/"
